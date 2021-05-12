@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Zihao ZUO's Personal Page!
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-??? How to apply theme???
 
 You can use the [editor on GitHub](https://github.com/zh-zuo/zh-zuo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

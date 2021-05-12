@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+
 You can use the [editor on GitHub](https://github.com/zh-zuo/zh-zuo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

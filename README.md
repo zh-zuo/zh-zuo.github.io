@@ -1,5 +1,6 @@
 ## Welcome to Zihao ZUO's Personal Page!
 
+(Actually I have no idea what I'm doing lmao)
 
 You can use the [editor on GitHub](https://github.com/zh-zuo/zh-zuo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -18,7 +18,7 @@ If you want to communicate or cooperate with me, please see my email adress in t
 
 ### Contact Me!
 
-Email: 119010499@link.cuhk.edu.cn
+Email: [My Education Email](mailto: 119010499@link.cuhk.edu.cn)
 
 Linked in: [My Linked In Homepage](www.linkedin.com/in/zihaozuo)
 
